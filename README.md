@@ -132,10 +132,9 @@ lfm只考虑了各隐类间的线性关系，隐类间一般都是非线性关�
 > 我的实验环境：
 > keras: 2.6.4
 > python: 3.6.4
-> numpy: 1.14.0
+> numpy: 1.14.5
 > 
-> 可能版本不对，跑的时候有很多错,我改了些错并改成python3版本：
-https://github.com/wyl6/Recommender-Systems-Samples/tree/master/RecSys%20And%20Deep%20Learning/DNN/ncf
+> 
 
 
 
